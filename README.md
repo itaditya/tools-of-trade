@@ -47,10 +47,6 @@
 
 ### Cool Things to watch out for - 
 
-  * [] [ParcelJs](https://github.com/parcel-bundler/parcel)
-  * [] [Bookshelf](https://github.com/bookshelf/bookshelf)
-  * [] [TUI editor](https://github.com/nhnent/tui.editor)
-
-
-
-  
+  * [ ] [ParcelJs](https://github.com/parcel-bundler/parcel)
+  * [ ] [Bookshelf](https://github.com/bookshelf/bookshelf)
+  * [ ] [TUI editor](https://github.com/nhnent/tui.editor)
